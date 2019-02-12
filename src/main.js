@@ -2,7 +2,8 @@ import '../styles/styles.css';
 import 'bootstrap/dist/css/bootstrap.css';
 import '@syncfusion/ej2-buttons/styles/material.css'
 
-import 'bootstrap';
+import 'bootstrap.native'
+//import 'bootstrap';
 import environment from './environment';
 import {PLATFORM} from 'aurelia-pal';
 import '@babel/polyfill';

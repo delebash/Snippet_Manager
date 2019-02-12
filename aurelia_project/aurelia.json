@@ -34,8 +34,8 @@
     "fileExtension": ".js"
   },
   "markupProcessor": {
-    "id": "none",
-    "displayName": "None",
+    "id": "maximum",
+    "displayName": "Maximum Minification",
     "fileExtension": ".html"
   },
   "cssProcessor": {
@@ -64,8 +64,8 @@
     "displayName": "Jest"
   },
   "integrationTestRunner": {
-    "id": "none",
-    "displayName": "None"
+    "id": "protractor",
+    "displayName": "Protractor"
   },
   "paths": {
     "root": "src",
